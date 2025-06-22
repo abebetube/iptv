@@ -1,101 +1,55 @@
-#EXTM3U
-#EXTINF:-1,Israel: ch 23 החינוכית
+#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz"
+#EXTINF:-1 tvg-id="Shopping Channel-IS" tvg-name="IL: shopping channel" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/סמליל_ערוץ_הקניות.jpg" group-title="Shop",ch 21 ערוץ הקניות
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8
+#EXTINF:-1 tvg-id="Kan 23-IS" tvg-name="IL: Kan 23" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png" group-title="Kids",ch 23 החינוכית
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
-#EXTINF:-1,Israel: Kabbalah for the People (Israel)
+#EXTINF:-1 tvg-id="Kan 23-IS" tvg-name="IL: Kan 23" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png" group-title="Kids",ch 23 החינוכית FHD
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_4k/chunklist.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="26" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/2/23/LOGO_BigBro.png/2880px-LOGO_BigBro.png" group-title="General",ch 26 האח הגדול
+https://reshet-live-il.ctedgecdn.net/13tv-premium/bb/r13_2400.m3u8
+#EXTINF:-1 tvg-id="Knesset Channel-IS" tvg-name="Knesset Channel-IS" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/2560px-Knessetch10.svg.png" group-title="Legislative",ch 99 הכנסת
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/NmnXn2z.jpg" group-title="News",Channel 2 News
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2200_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/NmnXn2z.jpg" group-title="News",Channel 2 News
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF:-1 tvg-id="Channel 20-IS" tvg-name="IL: ISRAEL Channel 20" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/1920px-Arutz_20.svg.png" group-title="Religious",Channel 20 ערוץ
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Hidabroot Channel-IS" tvg-name="Hidabroot Channel-IS" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/wKi97Pg.png" group-title="Religious",Hidabroot
+http://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Hidabroot Channel-IS" tvg-name="Hidabroot Channel-IS" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/wKi97Pg.png" group-title="Religious",Hidabroot
+https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+#EXTINF:-1 tvg-id="Hidabroot Channel-IS" tvg-name="Hidabroot Channel-IS" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/wKi97Pg.png" group-title="Religious",Hidabroot
+https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/RSssxcw.jpg" group-title="News",i24 News
+https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/RSssxcw.jpg" group-title="News",i24 News
+https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" group-title="",Kabbalah for the People (Israel)
 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
-#EXTINF:-1,Israel: Kan 11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" group-title="",Kabbalah for the People (Israel)
+https://edge2.uk.kab.tv/rtplive/tv66-heb-medium.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="IL: Kan 11" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/vqfNbEU.png" group-title="",Kan 11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
-#EXTINF:-1,Israel: Music 24
+#EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="IL: Kan 11" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/2880px-Kan11Logo.svg.png" group-title="General",Kan 11 כאן FHD
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_4k/chunklist.m3u8
+#EXTINF:-1 tvg-id="Mikan-IS" tvg-name="כאן IL: Mikan" tvg-language="Arabic" tvg-logo="https://www.makan.org.il/images/logo_makan_33.png" group-title="General",Makan 33 מכאן
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/lBbbPI4.jpg" group-title="Music",Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-#EXTINF:-1,Israel: Sport אתר ספורט 5
+#EXTINF:-1 tvg-id="Channel 13 Reshet-IS" tvg-name="IL: ISRAEL Channel 13 Reshet" tvg-language="Hebrew" tvg-logo="https://media.reshet.tv/image/upload/v1505910155/logo-final-13-reshet-red_a5lwvy.jpg" group-title="General",Reshet 13 רשת
+http://reshet-live-il.ctedgecdn.net/13tv-desktop/r13_2400.m3u8
+#EXTINF:-1 tvg-id="Shopping Channel-IS" tvg-name="IL: shopping channel" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/9AggY4H.png" group-title="Shop",Shopping Channel
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8?ttl=1524643697&cdn_token=5a6c4f1270440ae72118c8ae16c58de4
+#EXTINF:-1 tvg-id="Sport 5-IS" tvg-name="IL: Sport 5 HD" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/a/ad/Sport5ch.svg/1920px-Sport5ch.svg.png" group-title="Sport",Sport אתר ספורט 5
 https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/index_1_av-p.m3u8
-#EXTINF:-1,Israel: هلا تي في
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/7JH43wB.jpg" group-title="",Yeshua Chai TV
+https://ihoplive-f.akamaihd.net/i/yeshuachai_tv@124973/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="" group-title="",Ynet Live
+https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/OzjftEl.png" group-title="",هلا تي في
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
-#EXTINF:-1,IL: Baby TV
-http://skylogic.site:8080/esterichannel50con/36cb6c13/163444
-#EXTINF:-1,IL: BollyShow
-http://skylogic.site:8080/esterichannel50con/36cb6c13/90946
-#EXTINF:-1,IL: CH 9
-http://skylogic.site:8080/esterichannel50con/36cb6c13/23362
-#EXTINF:-1,IL: CH 11 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14771
-#EXTINF:-1,IL: CH 12 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/172325
-#EXTINF:-1,IL: CH 20
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14773
-#EXTINF:-1,IL: Disney Junior
-http://skylogic.site:8080/esterichannel50con/36cb6c13/163450
-#EXTINF:-1,IL: HALA TV FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/147162
-#EXTINF:-1,IL: Hidabroot Channel
-http://skylogic.site:8080/esterichannel50con/36cb6c13/24102
-#EXTINF:-1,IL: HOME +
-http://skylogic.site:8080/esterichannel50con/36cb6c13/163453
-#EXTINF:-1,IL: HOT #
-http://skylogic.site:8080/esterichannel50con/36cb6c13/163448
-#EXTINF:-1,IL: HOT 3 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/90952
-#EXTINF:-1,IL: HOT C4
-http://skylogic.site:8080/esterichannel50con/36cb6c13/171758
-#EXTINF:-1,IL: JUNIOR
-http://skylogic.site:8080/esterichannel50con/36cb6c13/90954
-#EXTINF:-1,IL: Kabbalah TV
-http://skylogic.site:8080/esterichannel50con/36cb6c13/158596
-#EXTINF:-1,IL: Keshet 12 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/23363
-#EXTINF:-1,IL: Knesset Channel
-http://skylogic.site:8080/esterichannel50con/36cb6c13/24105
-#EXTINF:-1,IL: MIKAN
-http://skylogic.site:8080/esterichannel50con/36cb6c13/163467
-#EXTINF:-1,IL: MUSIC 24
-http://skylogic.site:8080/esterichannel50con/36cb6c13/90955
-#EXTINF:-1,IL: Reshet 13
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14772
-#EXTINF:-1,IL: Teen nick
-http://skylogic.site:8080/esterichannel50con/36cb6c13/163447
-#EXTINF:-1,IL: VIVA
-http://skylogic.site:8080/esterichannel50con/36cb6c13/163477
-#EXTINF:-1,IL: VIVA PLUS
-http://skylogic.site:8080/esterichannel50con/36cb6c13/90947
-#EXTINF:-1,IL: YES 1 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14775
-#EXTINF:-1,IL: YES 2 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14776
-#EXTINF:-1,IL: Yes DOCU
-http://skylogic.site:8080/esterichannel50con/36cb6c13/24124
-#EXTINF:-1,IL: Yes Hala FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/166424
-#EXTINF:-1,IL: Yes Knesest Tv
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14783
-#EXTINF:-1,IL: Yes Movies Action FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/196396
-#EXTINF:-1,IL: YES Movies COMEDY
-http://skylogic.site:8080/esterichannel50con/36cb6c13/40607
-#EXTINF:-1,IL: Yes Shopping
-http://skylogic.site:8080/esterichannel50con/36cb6c13/172319
-#EXTINF:-1,IL: YES SPORT 1 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/172324
-#EXTINF:-1,IL: YES SPORT 2 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/172322
-#EXTINF:-1,IL: YES SPORT 3 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/196394
-#EXTINF:-1,IL: YES SPORT 4 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/172320
-#EXTINF:-1,IL: YES SPORT 5
-http://skylogic.site:8080/esterichannel50con/36cb6c13/172323
-#EXTINF:-1,IL: YES SPORT 5 PLUS HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14789
-#EXTINF:-1,IL: Yes TeenNick FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/196416
-#EXTINF:-1,IL: Yes Travel Channel
-http://skylogic.site:8080/esterichannel50con/36cb6c13/171743
-#EXTINF:-1,IL: YES TV ACTION HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/163479
-#EXTINF:-1,IL: YES TV COMEDY HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14781
-#EXTINF:-1,IL: YES TV DRAMA HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14782
-#EXTINF:-1,IL: Yes Viva HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14786
-#EXTINF:-1,IL: ZOOM HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/90949
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Amharic" tvg-logo="https://i.imgur.com/KAg6MOI.png" group-title="",Addis TV
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/chunklist_w418104290_b2130000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Amharic" tvg-logo="https://i.imgur.com/KAg6MOI.png" group-title="",Addis TV
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
