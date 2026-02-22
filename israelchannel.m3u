@@ -1,7 +1,5 @@
-
-ISRAEL
 #EXTM3U
-#EXTINF:-1,Israel: ch 23 החינוכית
+#EXTINF:-1,Israel: ch 23
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
 #EXTINF:-1,Israel: Kabbalah for the People (Israel)
 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
@@ -9,9 +7,9 @@ http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
 #EXTINF:-1,Israel: Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-#EXTINF:-1,Israel: Sport אתר ספורט 5
+#EXTINF:-1,Israel: Sport
 https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/index_1_av-p.m3u8
-#EXTINF:-1,Israel: هلا تي في
+#EXTINF:-1,Israel: تله
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 #EXTINF:-1,IL: Baby TV
 http://skylogic.site:8080/esterichannel50con/36cb6c13/163444
