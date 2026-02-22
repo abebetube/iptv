@@ -1,101 +1,145 @@
-#EXTM3U
-#EXTINF:-1,Israel: ch 23
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
-#EXTINF:-1,Israel: Kabbalah for the People (Israel)
-http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
-#EXTINF:-1,Israel: Kan 11
-https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
-#EXTINF:-1,Israel: Music 24
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-#EXTINF:-1,Israel: Sport
-https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/index_1_av-p.m3u8
-#EXTINF:-1,Israel: تله
-https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
-#EXTINF:-1,IL: Baby TV
-http://skylogic.site:8080/esterichannel50con/36cb6c13/163444
-#EXTINF:-1,IL: BollyShow
-http://skylogic.site:8080/esterichannel50con/36cb6c13/90946
-#EXTINF:-1,IL: CH 9
-http://skylogic.site:8080/esterichannel50con/36cb6c13/23362
-#EXTINF:-1,IL: CH 11 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14771
-#EXTINF:-1,IL: CH 12 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/172325
-#EXTINF:-1,IL: CH 20
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14773
-#EXTINF:-1,IL: Disney Junior
-http://skylogic.site:8080/esterichannel50con/36cb6c13/163450
-#EXTINF:-1,IL: HALA TV FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/147162
-#EXTINF:-1,IL: Hidabroot Channel
-http://skylogic.site:8080/esterichannel50con/36cb6c13/24102
-#EXTINF:-1,IL: HOME +
-http://skylogic.site:8080/esterichannel50con/36cb6c13/163453
-#EXTINF:-1,IL: HOT #
-http://skylogic.site:8080/esterichannel50con/36cb6c13/163448
-#EXTINF:-1,IL: HOT 3 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/90952
-#EXTINF:-1,IL: HOT C4
-http://skylogic.site:8080/esterichannel50con/36cb6c13/171758
-#EXTINF:-1,IL: JUNIOR
-http://skylogic.site:8080/esterichannel50con/36cb6c13/90954
-#EXTINF:-1,IL: Kabbalah TV
-http://skylogic.site:8080/esterichannel50con/36cb6c13/158596
-#EXTINF:-1,IL: Keshet 12 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/23363
-#EXTINF:-1,IL: Knesset Channel
-http://skylogic.site:8080/esterichannel50con/36cb6c13/24105
-#EXTINF:-1,IL: MIKAN
-http://skylogic.site:8080/esterichannel50con/36cb6c13/163467
-#EXTINF:-1,IL: MUSIC 24
-http://skylogic.site:8080/esterichannel50con/36cb6c13/90955
-#EXTINF:-1,IL: Reshet 13
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14772
-#EXTINF:-1,IL: Teen nick
-http://skylogic.site:8080/esterichannel50con/36cb6c13/163447
-#EXTINF:-1,IL: VIVA
-http://skylogic.site:8080/esterichannel50con/36cb6c13/163477
-#EXTINF:-1,IL: VIVA PLUS
-http://skylogic.site:8080/esterichannel50con/36cb6c13/90947
-#EXTINF:-1,IL: YES 1 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14775
-#EXTINF:-1,IL: YES 2 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14776
-#EXTINF:-1,IL: Yes DOCU
-http://skylogic.site:8080/esterichannel50con/36cb6c13/24124
-#EXTINF:-1,IL: Yes Hala FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/166424
-#EXTINF:-1,IL: Yes Knesest Tv
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14783
-#EXTINF:-1,IL: Yes Movies Action FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/196396
-#EXTINF:-1,IL: YES Movies COMEDY
-http://skylogic.site:8080/esterichannel50con/36cb6c13/40607
-#EXTINF:-1,IL: Yes Shopping
-http://skylogic.site:8080/esterichannel50con/36cb6c13/172319
-#EXTINF:-1,IL: YES SPORT 1 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/172324
-#EXTINF:-1,IL: YES SPORT 2 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/172322
-#EXTINF:-1,IL: YES SPORT 3 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/196394
-#EXTINF:-1,IL: YES SPORT 4 HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/172320
-#EXTINF:-1,IL: YES SPORT 5
-http://skylogic.site:8080/esterichannel50con/36cb6c13/172323
-#EXTINF:-1,IL: YES SPORT 5 PLUS HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14789
-#EXTINF:-1,IL: Yes TeenNick FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/196416
-#EXTINF:-1,IL: Yes Travel Channel
-http://skylogic.site:8080/esterichannel50con/36cb6c13/171743
-#EXTINF:-1,IL: YES TV ACTION HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/163479
-#EXTINF:-1,IL: YES TV COMEDY HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14781
-#EXTINF:-1,IL: YES TV DRAMA HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14782
-#EXTINF:-1,IL: Yes Viva HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/14786
-#EXTINF:-1,IL: ZOOM HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/90949
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-chno="11" group-title="News" tvg-id="Kan 11" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png", Kan 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="12" group-title="News" tvg-id="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png", Keshet 12
+# https://zekonew.newkso.ru/zeko/premium549/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0 
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/profileManifest.m3u8?_uid=0&rK=b6
+
+#EXTINF:-1 tvg-chno="13" group-title="News" tvg-id="Reshet 13" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg", Reshet 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
+
+#EXTINF:-1 tvg-chno="14" group-title="News" tvg-id="i24" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg", i24 News
+https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8?__nn__=5476555825001&hdnea=st=1767895200~exp=1767898800~acl=/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/*~hmac=59be9c55159d8b6167ec5d5a7528df6b7bf144a4d8fe71dd486a93e5032f20a2
+
+#EXTINF:-1 tvg-chno="21" group-title="News" tvg-id="465021" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png", CNN
+# EPG: https://epg.pw/api/epg.xml?channel_id=465021
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+
+#EXTINF:-1 tvg-chno="22" group-title="News" tvg-id="465150" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNews.jpg", ABC News
+# EPG: https://epg.pw/api/epg.xml?channel_id=465150
+https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="23" group-title="News" tvg-id="NBC News NOW" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png", NBC News
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873clivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+
+#EXTINF:-1 tvg-chno="24" group-title="News" tvg-id="465372" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png", Fox News
+# EPG: https://epg.pw/api/epg.xml?channel_id=465372
+https://s6.usnlive.com/stream/foxnews.m3u8|referer=https://usnewson.com/&origin=https://usnewson.com
+
+#EXTINF:-1 tvg-chno="31" group-title="Movies" tvg-id="Yes Movies Kids" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesKids.png", Yes Kids Movies
+https://zekonew.newkso.ru/zeko/premium544/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+
+#EXTINF:-1 tvg-chno="32" group-title="Movies" tvg-id="Yes Movies Action" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesAction.png", Yes Action Movies
+https://zekonew.newkso.ru/zeko/premium543/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+
+#EXTINF:-1 tvg-chno="33" group-title="Movies" tvg-id="Yes Movies Comedy" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesComedy.png", Yes Comedy Movies
+https://zekonew.newkso.ru/zeko/premium545/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+
+#EXTINF:-1 tvg-chno="41" group-title="Movies" tvg-id="Sky Cinema Greats" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkyCinemaGreats.png", Sky Cinema Greats
+https://windnew.newkso.ru/wind/premium674/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-chno="42" group-title="Movies" tvg-id="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkyCinemaDrama.png", Sky Cinema Drama
+https://windnew.newkso.ru/wind/premium680/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-chno="43" group-title="Movies" tvg-id="Sky Cinema Premiere" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkyCinemaPremiere.png", Sky Cinema Premiere
+https://windnew.newkso.ru/wind/premium671/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-chno="44" group-title="Movies" tvg-id="9315" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkyCinemaSelect.png", Sky Cinema Select
+# EPG: https://epg.pw/api/epg.xml?channel_id=9315
+https://windnew.newkso.ru/wind/premium672/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-chno="45" group-title="Movies" tvg-id="454796" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkyCinemaHits.jpeg", Sky Cinema Hits
+# EPG: https://epg.pw/api/epg.xml?channel_id=454796
+https://windnew.newkso.ru/wind/premium673/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-chno="51" group-title="Movies" tvg-id="465249" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/hbo.png", HBO
+# EPG: https://epg.pw/api/epg.xml?channel_id=465249
+https://cdn-live-tv.ru/api/v1/channels/us-hbo/index.m3u8
+
+#EXTINF:-1 tvg-chno="52" group-title="Movies" tvg-id="465146" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/hbo%202.png", HBO 2
+# EPG: https://epg.pw/api/epg.xml?channel_id=465146
+https://nfsnew.newkso.ru/nfs/premium689/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+
+#EXTINF:-1 tvg-chno="53" group-title="Movies" tvg-id="464953" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/hbo%20comedy.png", HBO Comedy
+# EPG: https://epg.pw/api/epg.xml?channel_id=464953
+https://nfsnew.newkso.ru/nfs/premium690/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+
+#EXTINF:-1 tvg-chno="54" group-title="Movies" tvg-id="403783" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/hbo%20family.png", HBO Family
+# EPG: https://epg.pw/api/epg.xml?channel_id=403783
+https://nfsnew.newkso.ru/nfs/premium691/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+
+#EXTINF:-1 tvg-chno="55" group-title="Movies" tvg-id="465279" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/hbo%20signature.png", HBO Signature
+# EPG: https://epg.pw/api/epg.xml?channel_id=465279
+https://nfsnew.newkso.ru/nfs/premium693/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+
+#EXTINF:-1 tvg-chno="56" group-title="Movies" tvg-id="465104" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/hbo%20zone.png", HBO Zone
+# EPG: https://epg.pw/api/epg.xml?channel_id=465104
+https://nfsnew.newkso.ru/nfs/premium694/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+
+#EXTINF:-1 tvg-chno="61" group-title="Sports" tvg-id="Sport 1" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-1.png", Sport 1
+https://zekonew.newkso.ru/zeko/premium140/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+
+#EXTINF:-1 tvg-chno="62" group-title="Sports" tvg-id="Sport 2" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-3.png", Sport 2
+https://zekonew.newkso.ru/zeko/premium141/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+
+#EXTINF:-1 tvg-chno="63" group-title="Sports" tvg-id="Sport 3" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-4.png", Sport 3
+https://zekonew.newkso.ru/zeko/premium142/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+
+#EXTINF:-1 tvg-chno="64" group-title="Sports" tvg-id="Sport 4" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-5.png", Sport 4
+https://zekonew.newkso.ru/zeko/premium143/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+
+#EXTINF:-1 tvg-chno="65" group-title="Sports" tvg-id="Sport 5" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5.jpg", Sport 5
+https://zekonew.newkso.ru/zeko/premium144/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+
+#EXTINF:-1 tvg-chno="66" group-title="Sports" tvg-id="Sport 5 Plus" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Plus.jpg", Sport 5 Plus
+https://zekonew.newkso.ru/zeko/premium145/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+
+#EXTINF:-1 tvg-chno="67" group-title="Sports" tvg-id="Sport 5 Live" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Live.jpg", Sport 5 Live
+https://zekonew.newkso.ru/zeko/premium146/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+
+#EXTINF:-1 tvg-chno="68" group-title="Sports" tvg-id="Sport 5 Stars" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Stars.jpg", Sport 5 Stars
+https://zekonew.newkso.ru/zeko/premium147/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+
+#EXTINF:-1 tvg-chno="71" group-title="Sports" tvg-id="Sport One" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-1.png", Sport One 1
+https://windnew.newkso.ru/wind/premium541/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+
+#EXTINF:-1 tvg-chno="72" group-title="Sports" tvg-id="Sport One 2" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-2.png", Sport One 2
+https://ddy6new.newkso.ru/ddy6/premium542/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+
+#EXTINF:-1 tvg-chno="81" group-title="Sports" tvg-id="465311" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NFLNetwork.png", NFL Network
+# EPG: https://epg.pw/api/epg.xml?channel_id=465311
+https://cdn-live-tv.ru/api/v1/channels/us-nfl-network/index.m3u8
+
+#EXTINF:-1 tvg-chno="82" group-title="Sports" tvg-id="454969" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsNFL.png", Sky Sports NFL
+# EPG: https://epg.pw/api/epg.xml?channel_id=454969
+https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-nfl/index.m3u8
+
+#EXTINF:-1 tvg-chno="83" group-title="Sports" tvg-id="7673" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsMainEvent.png", Sky Sports Main Event
+# EPG: https://epg.pw/api/epg.xml?channel_id=7673
+https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-main-event/index.m3u8
+
+#EXTINF:-1 tvg-chno="84" group-title="Sports" tvg-id="465198" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN.png", ESPN
+# EPG: https://epg.pw/api/epg.xml?channel_id=465198
+https://cdn-live-tv.ru/api/v1/channels/us-espn/index.m3u8
+
+#EXTINF:-1 tvg-chno="85" group-title="Sports" tvg-id="465373" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN2.png", ESPN 2
+# EPG: https://epg.pw/api/epg.xml?channel_id=465373
+https://cdn-live-tv.ru/api/v1/channels/us-espn-2/index.m3u8
+
+#EXTINF:-1 tvg-chno="91" group-title="Local" tvg-id="467679" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNY.png", ABC NY
+# EPG: https://epg.pw/api/epg.xml?channel_id=467679
+https://cdn-live-tv.ru/api/v1/channels/us-abc/index.m3u8
+
+#EXTINF:-1 tvg-chno="92" group-title="Local" tvg-id="467015" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNY.png", NBC NY
+# EPG: https://epg.pw/api/epg.xml?channel_id=467015
+https://cdn-live-tv.ru/api/v1/channels/us-nbc/index.m3u8
+
+#EXTINF:-1 tvg-chno="93" group-title="Local" tvg-id="468311" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CBSNY.png", CBS NY
+# EPG: https://epg.pw/api/epg.xml?channel_id=468311
+https://cdn-live-tv.ru/api/v1/channels/us-cbs/index.m3u8
+
+#EXTINF:-1 tvg-chno="94" group-title="Local" tvg-id="469143" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FOXNY.png", Fox NY
+# EPG: https://epg.pw/api/epg.xml?channel_id=469143
+https://cdn-live-tv.ru/api/v1/channels/us-fox/index.m3u8
